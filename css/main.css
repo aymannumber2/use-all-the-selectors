@@ -6,10 +6,18 @@ header, footer {
   font-size: 1.5rem;
 }
 
-header nav ul {
+ul {
   font-family: sans-serif;
 }
 
-<h1 class="logo">Fruit Factory</h1> {
-  text-transform: uppercase;
+.logo
+  text-transfrom: uppercase;
+}
+
+.wrapper {
+  background-color: #eee8d5;
+}
+
+#contents #favs #facts #types {
+  color: 93a1a1;
 }
