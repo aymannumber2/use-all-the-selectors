@@ -30,6 +30,6 @@ div > p last-child{
   color: black;
 }
 
-p + strong {
+main + div + p + strong {
   color: #fff;
 }
