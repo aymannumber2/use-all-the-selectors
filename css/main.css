@@ -22,6 +22,10 @@ h2 {
   color: #93a1a1;
 }
 
-wrapper .dfn {
+div > p {
   color: #b58900;
+}
+
+div > p last-child{
+  color: black;
 }
