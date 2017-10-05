@@ -26,7 +26,7 @@ nav ul {
   background-color: #b58900;
 }
 
-div > p last-child{
+div > p:last-child {
   color: black;
 }
 
@@ -34,8 +34,8 @@ main div p + strong {
   color: #fff;
 }
 
- a:not(.no-highlight) {
- background-color: #719e07;
+a:not(.no-highlight) {
+  background-color: #719e07;
 }
 
 [href="http://en.wikipedia.org/wiki/Fruit"] {
