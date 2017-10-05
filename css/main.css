@@ -29,3 +29,7 @@ div > p {
 div > p last-child{
   color: black;
 }
+
+p + strong {
+  color: #fff;
+}
