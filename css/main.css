@@ -18,12 +18,12 @@ nav ul {
   background-color: #eee8d5;
 }
 
-h2 {
+#contents, #favs, #facts, #types {
   color: #93a1a1;
 }
 
-div > p {
-  color: #b58900;
+.wrapper > .dfn {
+  background-color: #b58900;
 }
 
 div > p last-child{
